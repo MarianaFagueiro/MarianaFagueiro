@@ -11,7 +11,5 @@
   <img align="center" alt="Mariana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mariana-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
- ![Snake animation](https://github.com/MarianaFagueiro/MarianaFagueiro/blob/output/github-contribution-grid-snake.svg)
-
-  
+   ![Snake animation](https://github.com/MarianaFagueiro/MarianaFagueiro/blob/output/github-contribution-grid-snake.svg)
 </div>
