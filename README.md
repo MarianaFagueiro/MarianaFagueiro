@@ -1,7 +1,7 @@
   ### Olá, meu nome é Mariana Fagueiro
 
 <div align="inline">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/MarianaFagueiro">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarianaFagueiro&show_icons=true&theme=white&include_all_commits=false&count_private=false"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFagueiro&layout=compact&langs_count=7&theme=white"/>
 </div>
@@ -15,6 +15,6 @@
 
 <div>
   
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/MarianaFagueiro/MarianaFagueiro/blob/output/github-contribution-grid-snake.svg)
 
   </div>
