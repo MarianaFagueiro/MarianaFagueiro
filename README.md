@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ela/dela
 
-<div align="middle">
+<div align="center: inline_block">
   <a href="https://github.com/MarianaFagueiro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaFagueiro&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFagueiro&layout=compact&langs_count=7&theme=white"/>
